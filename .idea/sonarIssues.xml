@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/dummy.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/e0c0d2bc/6888784d-ff4b-411c-be87-29ab4026bc4f/database/mgdev/schema/public/routine/fn_wooffhistoryinsert.(integer,integer,boolean,text,text,integer).sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/homeworkspace/nodejsprojects/src/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/scripts/Release - Nov2017/Release Scripts.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/companyprofile/dao/CompanyProfileDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/dataimport/controller/DataMgtRefImpAjaxController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/dataimport/dao/DataMgtRefFacImportDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/dataimport/service/DataMgtRefFacImportService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/lookupworkorder/controller/DatamanagementWorkorderAjaxController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/lookupworkorder/dao/DatamanagementWorkorderDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/datamanagement/lookupworkorder/service/DatamanagmentWorkorderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/adminstration/rolemgmt/dao/RoleManagementDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/common/bean/EquipmentData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/bean/EquipmentwooffedittrailInfoDatatableObj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/bean/EquipmentwoonedittrailInfoDatatableObj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/controller/EquipmentAjaxController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/dao/EquipmentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/entity/EquipmentmasterEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/entity/EquipmentmeterreadingEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/service/EquipmentSerivce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/assets/equipment/service/EquipmentUpdateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/common/login/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/common/master/beans/HdzissuecodeMEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/instrumentation/workorder/beans/WorkorderList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/HDWorkordercontroller/HdzGeneratewo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/controller/HDchartController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/controller/HDeditAjaxController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/dao/HDChartdeploymentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/dao/HDeditdeploymentdao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/dao/Hdzadddeploymentdao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/entity/HdzequipmentlistEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/service/HDCreateWoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/service/HDSaveService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/service/HDUpdateservice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/service/HDchartService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/HorizontalDeployment/service/HDeditAjaxService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/common/Onoffcalculationwo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/controller/WorkorderPrintAjaxController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/dao/WorkorderEquipmentAjaxDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/dao/WorkorderScheduleAjaxDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/entity/WorkorderOffhistoryEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/entity/WorkorderOnhistoryEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/entity/WorkordermasterEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/services/WorkorderEditSaveService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/services/WorkorderSaveService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/operations/workorder/woprint/ToolsReportBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/reports/common/controller/CommonReportPopupController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/reports/common/dao/CommonReportDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/java/com/maintwiz/tpm/utils/TenantRouter/TenantRouter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/resources/properties/common.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/include/mw_header.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/properties/common.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/adminstration/datamgt/mw_lookupworkorder.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/adminstration/rolemgmt/mw_editrole.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/assets/equipment/mw_equipmentedit.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/operations/HDDeplyment/mw_addhddeployment.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/operations/HDDeplyment/mw_edithddeployment.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/operations/HDDeplyment/mw_listhddeployment.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/operations/workorder/mw_addworkorder.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/operations/workorder/mw_editworkorder.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/views/jsp/reports/rpworkorders/mw_workord_by_status.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/administration/datamgt/dataimports/mw_dtrefer_import.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/administration/datamgt/mw_lookupworkorder.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/assets/equipment/mw_editequipment.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/HDdeployment/mw_addhddeployprocess.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/HDdeployment/mw_allhdprocessajax.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/HDdeployment/mw_edithddeployprocess.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/HDdeployment/mw_listhdprocess.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/workorder/mw_addworkorder.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/operations/workorder/mw_editworkorder.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/report/common/mw_rpt_common_facility_equipment.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwiz-M2/src/main/webapp/resources/mw_js/report/rpworkorders/mw_workord_rootcause_analysis.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/officeworkspace/maintwizschedule/maintwizschedule/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/spring-boot/src/main/java/com/example/demo/login/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/ArraySum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/CompleteSyllabusprogram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/CountNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/DiwalitestProgram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/FindWhiteSpace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/Funcakeshop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/GreatKianProgram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/InverseList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/Killjeeasyproblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/LittlejhoolAlgorithm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/MinMaxExpgen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/PossibleNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/Printhackersearth.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BasicImplprogram/StarProgram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Basicofoperator/Birthdayparty.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/CipherCrime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Countdivisor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Factorial.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/FindAscIIvalue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Findproduct.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Polindrome.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Primenumber_example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Techgig/CountBigger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Techgig/CountCouples.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Techgig/Majorityarray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Techgig/PlaywithArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ToggleString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoStringCompare.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/localmain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejspro/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nodejspro/src/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/Program Files/nodejs/nodejspro/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/Program Files/nodejs/nodejspro/getRequest.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
